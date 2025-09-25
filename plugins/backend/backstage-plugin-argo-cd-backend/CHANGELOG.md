@@ -1,5 +1,11 @@
 # @roadiehq/backstage-plugin-argo-cd-backend
 
+## 4.4.2
+
+### Patch Changes
+
+- 4812498: Fixed the error that occurred when the provided Argo CD URL contained trailing slash
+
 ## 4.4.1
 
 ### Patch Changes
