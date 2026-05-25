@@ -1,5 +1,11 @@
 # @roadiehq/catalog-backend-module-okta
 
+## 1.3.2
+
+### Patch Changes
+
+- 24aefbb: test(catalog-backend-module-okta): silence winston "no transports" warning
+
 ## 1.3.1
 
 ### Patch Changes
